@@ -34,7 +34,7 @@ apt install git python -y && git clone https://github.com/wak-vluks/k-fuscator &
 
 ## [+] Find Me on :
 <ul>
-<li><a href="https://facebook.com/wak vluks"><img src="https://github.com/wak-vluks/kasweb/raw/main/assets/facebook.png" alt="facebook" width="20px" height="20px"></a></li>
-<li><a href="https://m.me/wak vluks"><img src="https://github.com/wak-vluks/kasweb/raw/main/assets/messenger.png" alt="messenger" width="20px" height="20px"></a></li>
-<li><a href="mailto:wakvluks@gmail.com"><img src="https://github.com/wak-vluks/kasweb/raw/main/assets/gmail.png" alt="email" width="20px" height="20px"></a></li>
+<li><a href="https://facebook.com/wak vluks"><img src="https://github.com/KasRoudra/kasweb/raw/main/assets/facebook.png" alt="facebook" width="20px" height="20px"></a></li>
+<li><a href="https://m.me/wak vluks"><img src="https://github.com/KasRoudra/kasweb/raw/main/assets/messenger.png" alt="messenger" width="20px" height="20px"></a></li>
+<li><a href="mailto:wakvluks@gmail.com"><img src="https://github.com/KasRoudra/kasweb/raw/main/assets/gmail.png" alt="email" width="20px" height="20px"></a></li>
 </ul>
